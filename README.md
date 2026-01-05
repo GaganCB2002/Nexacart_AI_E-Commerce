@@ -211,7 +211,7 @@ The application follows a standard n-tier architecture:
 Dynamic entrance with floating 3D elements and glass cards.
 
 
-![Premium Hero Section](./frontend/public/assets/hero_section_1767590499139.webp)
+![image alt]([./frontend/public/assets/hero_section_1767590499139.webp](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195851.png?raw=true))
 
 ### 2. Responsive Sidebar Navigation
 Clean access to Shop and Service links.
