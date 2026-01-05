@@ -253,4 +253,43 @@ Watch the complete user journey from Home to Checkout.
     npm run dev
     ```
 
+    ### Installation & Running (Step-by-Step)
+
+#### 1. Database Setup
+*   Ensure MySQL is running.
+*   Create a database named **`ecommerce_users_db`**.
+*   (Optional) Update `src/main/resources/application.properties` if your MySQL password is not `root`.
+
+#### 2. Backend Setup (Spring Boot)
+The backend runs on **Port 8080** by default (or 5000 if configured for Wattal).
+
+**Option A: Using Maven (Recommended)**
+```bash
+cd test
+mvn clean install
+mvn spring-boot:run
+```
+
+**Option B: Using Pre-built JAR**
+```bash
+cd test
+java -jar target/test-ecommerce-0.0.1-SNAPSHOT.jar
+```
+*   **Verify**: Open [http://localhost:8080/api/products](http://localhost:8080/api/products) to see if it responds.
+
+#### 3. Frontend Setup (React + Vite)
+The frontend runs on **Port 5173**.
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+*   **Access the App**: Open **[http://localhost:5173](http://localhost:5173)** in your browser.
+
+#### Summary of Ports
+*   **Frontend**: `http://localhost:5173`
+*   **Backend API**: `http://localhost:8080`
+*   **Database**: Port `3306` (MySQL)
+
 
