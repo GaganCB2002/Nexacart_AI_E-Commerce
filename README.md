@@ -215,19 +215,21 @@ Dynamic entrance with floating 3D elements and glass cards.
 
 ### 2. Responsive Sidebar Navigation
 Clean access to Shop and Service links.
-![Sidebar Screenshot](./frontend/public/assets/sidebar_nav_1767590566035.webp)
+![Sidebar Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220244.png?raw=true)
 
 ### 3. Global Filtering System
 Powerful filtering on all product pages.
-![Global Filters Screenshot](./frontend/public/images/neon_kicks.png)
+![Global Filters Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220303.png?raw=true)
 
 ### 4. Interactive Product Charts
 Real-time visualization of price trends and customer sentiment.
-![Charts Light Mode](./frontend/public/assets/charts_capture_1767590602268.webp)
+![Charts Light Mode](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20083556.png?raw=true)
 
 ### 5. Full Application Walkthrough
 Watch the complete user journey from Home to Checkout.
-![Full Application Walkthrough](./frontend/public/assets/launch_verification_1767590143175.webp)
+![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195718.png?raw=true)
+
+![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20193141.png?raw=true)
 
 ## 🏁 Getting Started
 
