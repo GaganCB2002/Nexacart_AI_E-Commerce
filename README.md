@@ -11,6 +11,33 @@ NexaCart is a state-of-the-art e-commerce application designed with a "Wow" fact
 *   **Interactive Data Visualization**: Real-time product price history lines, rating distribution bars, and sentiment analysis pie charts.
 *   **Secure User Management**: MySQL-backed user authentication and profile management.
 
+  ## 📸 Visual Tour
+
+### 1. Modern Hero Section
+Dynamic entrance with floating 3D elements and glass cards.
+
+
+![image alt](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195851.png?raw=true)
+
+### 2. Responsive Sidebar Navigation
+Clean access to Shop and Service links.
+![Sidebar Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220244.png?raw=true)
+
+### 3. Global Filtering System
+Powerful filtering on all product pages.
+![Global Filters Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220303.png?raw=true)
+
+### 4. Interactive Product Charts
+Real-time visualization of price trends and customer sentiment.
+![Charts Light Mode](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20083556.png?raw=true)
+
+### 5. Full Application Walkthrough
+Watch the complete user journey from Home to Checkout.
+![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195718.png?raw=true)
+
+![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20193141.png?raw=true)
+
+
   🧠 AI-Powered “Identify Product” Feature ⭐ (NEW CORE FUNCTION)
 
 Add this as a new section after “🔄 Project Workflow & Architecture”
@@ -205,31 +232,6 @@ The application follows a standard n-tier architecture:
     *   **Checkout**: Users submit shipping and payment information (simulated).
     *   **Confirmation**: On success, an Order ID is generated, and the interaction is logged in the user's history (Profile -> My Orders).
 
-## 📸 Visual Tour
-
-### 1. Modern Hero Section
-Dynamic entrance with floating 3D elements and glass cards.
-
-
-![image alt](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195851.png?raw=true)
-
-### 2. Responsive Sidebar Navigation
-Clean access to Shop and Service links.
-![Sidebar Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220244.png?raw=true)
-
-### 3. Global Filtering System
-Powerful filtering on all product pages.
-![Global Filters Screenshot](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-03%20220303.png?raw=true)
-
-### 4. Interactive Product Charts
-Real-time visualization of price trends and customer sentiment.
-![Charts Light Mode](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20083556.png?raw=true)
-
-### 5. Full Application Walkthrough
-Watch the complete user journey from Home to Checkout.
-![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195718.png?raw=true)
-
-![Full Application Walkthrough](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20193141.png?raw=true)
 
 ## 🏁 Getting Started
 
